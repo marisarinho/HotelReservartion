@@ -1,7 +1,7 @@
 # Sistema de reserva do hotel Check-In Dreams
 #### O projeto consiste no desenvolvimento de um sistema de reserva de hotel, utilizando um modelo cliente-servidor para gerenciar reservas de quartos de forma eficiente.
 
-## Autorass
+## Autoras
  Maria Clara Almeida | gomes.almeida@academico.ifpb.edu.br<br>
 Mariana dos Santos Sarinho | sarinho.mariana@academico.ifpb.edu.br
 
