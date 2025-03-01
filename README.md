@@ -6,7 +6,7 @@
 Mariana dos Santos Sarinho | sarinho.mariana@academico.ifpb.edu.br
 
 ## Disciplinas
- Estrutura de Dados: Alex Sandro da Cunha Rêgo<br>
+ Estrutura de Dados | professor: Alex Sandro da Cunha Rêgo<br>
 Protocolos de Interconexão de Redes de Computadores | professor: Leonidas Francisco de Lima Júnior
 
 ## Descrição do problema
