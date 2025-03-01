@@ -1,5 +1,16 @@
-# HotelReservartion
-O projeto consiste no desenvolvimento de um sistema de reserva de hotel, utilizando um modelo cliente-servidor para gerenciar reservas de quartos de forma eficiente.
+# Sistema de reserva do hotel Check-In Dreams
+#### O projeto consiste no desenvolvimento de um sistema de reserva de hotel, utilizando um modelo cliente-servidor para gerenciar reservas de quartos de forma eficiente.
+
+## Autorass
+ Maria Clara Almeida | gomes.almeida@academico.ifpb.edu.br<br>
+Mariana dos Santos Sarinho | sarinho.mariana@academico.ifpb.edu.br
+
+## Disciplinas
+ Estrutura de Dados: Alex Sandro da Cunha Rêgo<br>
+Protocolos de Interconexão de Redes de Computadores | professor: Leonidas Francisco de Lima Júnior
+
+## Descrição do problema
+O projeto visa desenvolver um sistema de reserva de hotel que será executado no terminal, permitindo que múltiplos usuários realizem reservas simultaneamente. O sistema tem como objetivo oferecer uma solução eficiente e acessível para a gestão de reservas, garantindo a organização e controle das acomodações disponíveis no hotel.
 
 
 ## Desenvolvedoras responsaveis pelo projeto
