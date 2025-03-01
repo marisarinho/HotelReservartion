@@ -11,7 +11,7 @@ O projeto consiste no desenvolvimento de um sistema de reserva de hotel, utiliza
         <img src="https://github.com/euclaraalmeida.png" width="120" height="120" style="border-radius: 50%; border: 3px solid #4CAF50;"/>
       </a>
       <br>
-      <strong><a href="https://github.com/euclaraalmeida" style="text-decoration: none; color: #4CAF50;">Maria Clara Almeida</a></strong>
+      <strong><a href="https://github.com/euclaraalmeida" style="text-decoration: none; color: #4CAF50;">Clara Almeida</a></strong>
     </td>
     <td align="center">
       <a href="https://github.com/marisarinho">
